@@ -1,16 +1,16 @@
 import { motion } from "framer-motion";
-import Button from "@/components/atoms/Button";
-import ApperIcon from "@/components/ApperIcon";
 import React from "react";
+import ApperIcon from "@/components/ApperIcon";
+import Button from "@/components/atoms/Button";
 
 const Error = ({ 
   message = "Something went wrong", 
   onRetry,
   type = "general"
 }) => {
-  const getErrorContent = () => {
+const getErrorContent = () => {
     switch (type) {
-case 'network':
+      case 'network':
         return {
           icon: 'Wifi',
           title: 'Connection Problem',
@@ -71,10 +71,10 @@ case 'network':
           className="min-w-32"
         >
           <ApperIcon name="RotateCcw" className="w-4 h-4 mr-2" />
-          {errorContent.action}
+{errorContent.action}
         </Button>
       )}
-</motion.div>
+    </motion.div>
   );
 };
 
