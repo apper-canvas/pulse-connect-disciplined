@@ -28,7 +28,7 @@ const Empty = ({
           action: 'Create Your First Post',
           gradient: 'from-secondary to-accent'
         }
-      case 'following':
+case 'following':
         return {
           icon: 'UserPlus',
           title: title || 'Not Following Anyone',
@@ -36,7 +36,7 @@ const Empty = ({
           action: 'Explore Users',
           gradient: 'from-accent to-primary'
         }
-case 'search':
+      case 'search':
         return {
           icon: 'Search',
           title: title || 'No Results Found',
