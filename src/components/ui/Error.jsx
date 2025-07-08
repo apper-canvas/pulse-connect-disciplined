@@ -17,7 +17,7 @@ const getErrorContent = () => {
           description: 'Please check your internet connection and try again.',
           action: 'Retry Connection'
         };
-      case 'notfound':
+case 'notfound':
         return {
           icon: 'Search',
           title: 'Not Found',
@@ -29,8 +29,8 @@ const getErrorContent = () => {
           icon: 'Server',
           title: 'Server Error',
           description: 'Our servers are having trouble. Please try again in a moment.',
-action: 'Try Again'
-      };
+          action: 'Try Again'
+        };
       case 'default':
       default:
         return {
