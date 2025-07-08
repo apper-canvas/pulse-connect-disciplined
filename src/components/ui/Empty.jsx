@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
-import Button from "@/components/atoms/Button";
-import ApperIcon from "@/components/ApperIcon";
 import React from "react";
+import ApperIcon from "@/components/ApperIcon";
+import Button from "@/components/atoms/Button";
 
 const Empty = ({ 
   type = "posts", 
@@ -36,7 +36,7 @@ const Empty = ({
           action: 'Explore Users',
           gradient: 'from-accent to-primary'
         }
-      case 'search':
+case 'search':
         return {
           icon: 'Search',
           title: title || 'No Results Found',
@@ -44,7 +44,7 @@ const Empty = ({
           action: 'Clear Search',
           gradient: 'from-info to-primary'
         }
-case 'notifications':
+      case 'notifications':
         return {
           icon: 'Bell',
           title: title || 'No Notifications',
