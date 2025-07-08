@@ -11,9 +11,9 @@ const Empty = ({
   description
 }) => {
   const getEmptyContent = () => {
-    switch (type) {
+switch (type) {
       case 'posts':
-return {
+        return {
           icon: 'FileText',
           title: title || 'No Posts Yet',
           description: description || 'Start sharing your thoughts and moments with the world!',
@@ -60,14 +60,14 @@ return {
           action: 'Add Comment',
           gradient: 'from-accent to-secondary'
         }
-      default:
+default:
         return {
           icon: 'Smile',
           title: title || 'Nothing Here',
           description: description || 'There's nothing to show at the moment.',
           action: actionText,
           gradient: 'from-primary to-secondary'
-        }
+        };
     }
   }
 
