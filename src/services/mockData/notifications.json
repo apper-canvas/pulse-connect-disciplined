@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 1,
+    "userId": 1,
+    "type": "like",
+    "actorId": 2,
+    "postId": 1,
+    "message": "liked your post",
+    "createdAt": "2024-01-15T12:00:00Z",
+    "isRead": false
+  },
+  {
+    "Id": 2,
+    "userId": 1,
+    "type": "comment",
+    "actorId": 3,
+    "postId": 1,
+    "message": "commented on your post",
+    "createdAt": "2024-01-15T11:45:00Z",
+    "isRead": false
+  },
+  {
+    "Id": 3,
+    "userId": 1,
+    "type": "follow",
+    "actorId": 4,
+    "message": "started following you",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "isRead": false
+  },
+  {
+    "Id": 4,
+    "userId": 1,
+    "type": "like",
+    "actorId": 5,
+    "postId": 7,
+    "message": "liked your post",
+    "createdAt": "2024-01-14T16:20:00Z",
+    "isRead": true
+  },
+  {
+    "Id": 5,
+    "userId": 1,
+    "type": "comment",
+    "actorId": 6,
+    "postId": 1,
+    "message": "commented on your post",
+    "createdAt": "2024-01-14T14:15:00Z",
+    "isRead": true
+  }
+]

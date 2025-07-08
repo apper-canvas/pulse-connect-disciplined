@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "username": "sarah_creative",
+    "displayName": "Sarah Chen",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+    "bio": "Digital artist & creative storyteller 🎨 Sharing moments that inspire ✨",
+    "followersCount": 1247,
+    "followingCount": 389,
+    "postsCount": 142,
+    "isPrivate": false
+  },
+  {
+    "Id": 2,
+    "username": "mike_adventures",
+    "displayName": "Mike Rodriguez",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "bio": "Adventure seeker 🏔️ Photographer 📸 Living life one experience at a time",
+    "followersCount": 892,
+    "followingCount": 234,
+    "postsCount": 98,
+    "isPrivate": false
+  },
+  {
+    "Id": 3,
+    "username": "emma_wellness",
+    "displayName": "Emma Thompson",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "bio": "Wellness coach & mindfulness advocate 🧘‍♀️ Helping others find balance",
+    "followersCount": 2156,
+    "followingCount": 567,
+    "postsCount": 205,
+    "isPrivate": false
+  },
+  {
+    "Id": 4,
+    "username": "alex_tech",
+    "displayName": "Alex Kim",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "bio": "Tech enthusiast & developer 💻 Building the future one line of code at a time",
+    "followersCount": 634,
+    "followingCount": 123,
+    "postsCount": 67,
+    "isPrivate": false
+  },
+  {
+    "Id": 5,
+    "username": "lisa_foodie",
+    "displayName": "Lisa Martinez",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+    "bio": "Food lover & recipe creator 🍜 Sharing delicious moments from around the world",
+    "followersCount": 3421,
+    "followingCount": 892,
+    "postsCount": 324,
+    "isPrivate": false
+  },
+  {
+    "Id": 6,
+    "username": "david_fitness",
+    "displayName": "David Wilson",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "bio": "Fitness trainer & nutrition coach 💪 Helping others achieve their health goals",
+    "followersCount": 1876,
+    "followingCount": 345,
+    "postsCount": 189,
+    "isPrivate": false
+  }
+]

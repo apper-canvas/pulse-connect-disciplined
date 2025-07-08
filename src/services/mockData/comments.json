@@ -1,0 +1,114 @@
+[
+  {
+    "Id": 1,
+    "postId": 1,
+    "userId": 2,
+    "content": "This is absolutely stunning! The color palette is perfect 🎨",
+    "createdAt": "2024-01-15T11:15:00Z"
+  },
+  {
+    "Id": 2,
+    "postId": 1,
+    "userId": 3,
+    "content": "Your art always inspires me to push my own creative boundaries!",
+    "createdAt": "2024-01-15T11:45:00Z"
+  },
+  {
+    "Id": 3,
+    "postId": 1,
+    "userId": 5,
+    "content": "The detail work is incredible! How long did this take you?",
+    "createdAt": "2024-01-15T12:20:00Z"
+  },
+  {
+    "Id": 4,
+    "postId": 2,
+    "userId": 1,
+    "content": "What an amazing view! Definitely adding this to my hiking bucket list 🏔️",
+    "createdAt": "2024-01-15T07:30:00Z"
+  },
+  {
+    "Id": 5,
+    "postId": 2,
+    "userId": 3,
+    "content": "Early morning hikes are the best! The peace and quiet is unmatched.",
+    "createdAt": "2024-01-15T08:00:00Z"
+  },
+  {
+    "Id": 6,
+    "postId": 3,
+    "userId": 1,
+    "content": "I'm grateful for inspiring people like you in my feed 🙏",
+    "createdAt": "2024-01-15T09:00:00Z"
+  },
+  {
+    "Id": 7,
+    "postId": 3,
+    "userId": 2,
+    "content": "Starting my day with gratitude too! Thanks for the reminder ✨",
+    "createdAt": "2024-01-15T09:30:00Z"
+  },
+  {
+    "Id": 8,
+    "postId": 4,
+    "userId": 1,
+    "content": "The dedication is real! Can't wait to see what you built 🚀",
+    "createdAt": "2024-01-15T00:15:00Z"
+  },
+  {
+    "Id": 9,
+    "postId": 5,
+    "userId": 2,
+    "content": "This looks absolutely delicious! Please share the recipe 🍝",
+    "createdAt": "2024-01-14T20:15:00Z"
+  },
+  {
+    "Id": 10,
+    "postId": 5,
+    "userId": 3,
+    "content": "Homemade pasta is the best! Nothing beats that fresh texture.",
+    "createdAt": "2024-01-14T20:45:00Z"
+  },
+  {
+    "Id": 11,
+    "postId": 5,
+    "userId": 4,
+    "content": "Making me hungry over here! Time to order some pasta 😅",
+    "createdAt": "2024-01-14T21:00:00Z"
+  },
+  {
+    "Id": 12,
+    "postId": 6,
+    "userId": 1,
+    "content": "You're such an inspiration! Time to get my workout in 💪",
+    "createdAt": "2024-01-14T08:00:00Z"
+  },
+  {
+    "Id": 13,
+    "postId": 6,
+    "userId": 3,
+    "content": "Consistency is key! Keep up the great work 🔥",
+    "createdAt": "2024-01-14T08:30:00Z"
+  },
+  {
+    "Id": 14,
+    "postId": 7,
+    "userId": 2,
+    "content": "Each character has so much personality! Can't wait to see the final project.",
+    "createdAt": "2024-01-13T16:00:00Z"
+  },
+  {
+    "Id": 15,
+    "postId": 8,
+    "userId": 1,
+    "content": "The reflection is incredible! What camera settings did you use?",
+    "createdAt": "2024-01-13T19:15:00Z"
+  },
+  {
+    "Id": 16,
+    "postId": 8,
+    "userId": 3,
+    "content": "Golden hour photography is my favorite! This is perfection 📸",
+    "createdAt": "2024-01-13T19:45:00Z"
+  }
+]

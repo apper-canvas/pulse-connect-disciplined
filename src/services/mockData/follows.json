@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "followerId": 1,
+    "followingId": 2,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "followerId": 1,
+    "followingId": 3,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "followerId": 1,
+    "followingId": 5,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 4,
+    "followerId": 2,
+    "followingId": 1,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 5,
+    "followerId": 2,
+    "followingId": 3,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 6,
+    "followerId": 3,
+    "followingId": 1,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 7,
+    "followerId": 3,
+    "followingId": 2,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 8,
+    "followerId": 4,
+    "followingId": 1,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 9,
+    "followerId": 5,
+    "followingId": 1,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "Id": 10,
+    "followerId": 6,
+    "followingId": 1,
+    "createdAt": "2024-01-10T10:00:00Z"
+  }
+]
