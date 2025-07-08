@@ -31,7 +31,7 @@ const getErrorContent = () => {
           description: 'Our servers are having trouble. Please try again in a moment.',
           action: 'Try Again'
         };
-      default:
+default:
         return {
           icon: 'AlertCircle',
           title: 'Oops!',
@@ -39,7 +39,7 @@ const getErrorContent = () => {
           action: 'Try Again'
         };
     }
-}
+  };
 
   const errorContent = getErrorContent();
 
