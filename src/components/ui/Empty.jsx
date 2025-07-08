@@ -13,14 +13,14 @@ const Empty = ({
   const getEmptyContent = () => {
     switch (type) {
       case 'posts':
-        return {
+return {
           icon: 'FileText',
           title: title || 'No Posts Yet',
           description: description || 'Start sharing your thoughts and moments with the world!',
           action: actionText,
           gradient: 'from-primary to-secondary'
         }
-case 'followers':
+      case 'followers':
         return {
           icon: 'Users',
           title: title || 'No Followers Yet',
