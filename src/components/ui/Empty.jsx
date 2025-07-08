@@ -10,8 +10,8 @@ const Empty = ({
   title,
   description
 }) => {
-  const getEmptyContent = () => {
-switch (type) {
+const getEmptyContent = () => {
+    switch (type) {
       case 'posts':
         return {
           icon: 'FileText',
@@ -64,7 +64,7 @@ default:
         return {
           icon: 'Smile',
           title: title || 'Nothing Here',
-          description: description || 'There's nothing to show at the moment.',
+          description: description || 'There\'s nothing to show at the moment.',
           action: actionText,
           gradient: 'from-primary to-secondary'
         };
