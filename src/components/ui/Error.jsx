@@ -29,9 +29,10 @@ const getErrorContent = () => {
           icon: 'Server',
           title: 'Server Error',
           description: 'Our servers are having trouble. Please try again in a moment.',
-          action: 'Try Again'
-        };
-default:
+action: 'Try Again'
+      };
+      case 'default':
+      default:
         return {
           icon: 'AlertCircle',
           title: 'Oops!',
@@ -64,14 +65,14 @@ default:
         {errorContent.description}
       </p>
       
-      {onRetry && (
+{onRetry && (
         <Button 
           onClick={onRetry}
           variant="primary"
           className="min-w-32"
         >
           <ApperIcon name="RotateCcw" className="w-4 h-4 mr-2" />
-{errorContent.action}
+          {errorContent.action}
         </Button>
       )}
     </motion.div>
