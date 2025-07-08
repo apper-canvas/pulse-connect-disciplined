@@ -20,7 +20,7 @@ const Empty = ({
           action: actionText,
           gradient: 'from-primary to-secondary'
         }
-      case 'followers':
+case 'followers':
         return {
           icon: 'Users',
           title: title || 'No Followers Yet',
@@ -28,7 +28,7 @@ const Empty = ({
           action: 'Create Your First Post',
           gradient: 'from-secondary to-accent'
         }
-case 'following':
+      case 'following':
         return {
           icon: 'UserPlus',
           title: title || 'Not Following Anyone',
